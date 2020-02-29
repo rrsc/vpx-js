@@ -59,7 +59,7 @@
 		"pngquant": "^3.0.0",
 		"sharp": "0.24.1",
 		"text-encoding": "^0.7.0",
-		"three": "^0.112.1",
+		"three": "^0.114.0",
 		"wpc-emu": "0.34.5"
 	},
 	"devDependencies": {
